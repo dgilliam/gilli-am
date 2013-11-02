@@ -2,11 +2,11 @@
 layout: page
 title: "Experience"
 description: ""
-tagline: "And education"
+tagline: "and education"
 ---
 {% include JB/setup %}
 
-##Startups
+##Startup
 
 **[ForSaleByOwner.com](http://www.forsalebyowner.com)** - Product Consultant
 

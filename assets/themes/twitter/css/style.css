@@ -12,6 +12,13 @@ h5 {
         line-height: 110%;
 }
 
+h1#logo {
+        float: left;
+        font-weight: 700;
+        margin: 0;
+        padding: 3px 0 0 0;
+}
+
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
