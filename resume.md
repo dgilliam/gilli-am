@@ -8,6 +8,12 @@ tagline: "And other stuff..."
 
 ##Startup Experience
 
+**[ForSaleByOwner.com](www.forsalebyowner.com)** - Product Consultant
+
+- Led `Product redesign, development and implementation` for 2MM+ montly visitor and $12MM annual revenue section of the site
+- Generated `10x monthly traffic` and `quadroupled revenue conversions`
+- Rebuilt team and instilled startup culture and values
+
 **[Wavetable Labs](http://wavetable.com/)** - Founder in Residence
 
 - Led the ideation and execution of a travel content app for iOS
@@ -24,7 +30,6 @@ content creation, planning and coordination` of a team of 5 – 1 designer, 1 de
 
 **Independent Consulting**
 
-- Led `Product redesign, development and implementation for a mid-stage startup` owned by a large publishing company.
 - Led `technology and operations assessment` for an Ecuadorian microfinance bank. Assessment included defining a technology strategy and recommendations for operational improvements and go-to-market strategy for microloan products in central Ecuador
 - Managed an ERP system implementation project for a mid-sized construction company
 
