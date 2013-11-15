@@ -1,5 +1,6 @@
 ---
 layout: page
+group: navigation
 title: "Experience"
 description: ""
 tagline: "and education"

@@ -1,5 +1,10 @@
 {% include themes/twitter/header.html %}
 
+<div class="page-header">
+  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+</div>
+
+
   <body>
     <div class="navbar">
       <div class="navbar-inner">
@@ -17,9 +22,15 @@
 
     <div class="container-narrow">
 
-      <div class="content">
-        {{ content }}
+      <div class="row-fluid">
+        <div class="span8">
+          {{ content }}
+        </div>
+        <div class="span4">
+          {% include themes/twitter/sidebar.html %}
+        </div>
       </div>
+
         {% include themes/twitter/footer.html %}
 
 
