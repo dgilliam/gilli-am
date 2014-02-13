@@ -31,7 +31,7 @@ content creation and coordination of a team of 5 – 1 designer, 1 developer, 1 
 **Independent Consulting**
 
 - Led `technology and operations assessment` for an Ecuadorian microfinance bank. Assessment included defining a technology strategy and recommendations for operational improvements and go-to-market strategy for microloan products in central Ecuador
-- Poject managed an ERP system implementation for a mid-sized construction company
+- Project managed an ERP system implementation for a mid-sized construction company
 
 
 **Diamond Consulting (Acquired by PwC)**
