@@ -10,7 +10,7 @@ tagline: "and education"
 
 **[ForSaleByOwner.com](http://www.forsalebyowner.com)** - Product Consultant
 
-- Led `product design and development` for 2MM+ montly visitor and $12MM annual revenue site
+- Led `product design and development` for 2MM+ monthly visitor and $12MM annual revenue site
 - Co-Authored and architected an `AngularJS` mobile-first single page MVC application for home sellers
 - Developed deep experience in the `real estate` industry and built a team and instilled startup culture and values
 
