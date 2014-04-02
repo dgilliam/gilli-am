@@ -10,8 +10,10 @@ tagline: "and education"
 
 **[ForSaleByOwner.com](http://www.forsalebyowner.com)** - Product Consultant
 
-- Led `product design and development` for 2MM+ monthly visitor and $12MM annual revenue site
-- Co-Authored and architected an `AngularJS` mobile-first single page MVC application for home sellers
+- Led `product roadmap and development` for 2MM+ monthly visitor and $12MM annual revenue site with a team of `5 developers`, one `UX designer` and one `visual designer`
+- Coordinated with executive stakeholders, content, marketing, and operations teams to `prioritize feature requests` and translate them into `stories` for design and engineering
+- Aligned feature goals with `business priorities` and strict focus on `user experience` and `customer acquisition`
+- Supported design and development with `UX flows and mockups`
 - Developed deep experience in the `real estate` industry and built a team and instilled startup culture and values
 
 **[Wavetable Labs](http://wavetable.com/)** - Founder in Residence
@@ -19,6 +21,8 @@ tagline: "and education"
 - Led the ideation and execution of a travel content app for iOS
 - As CEO of the app, activities included initial research, strategy, design, budgeting, marketing, SEM,
 content creation and coordination of a team of 5 – 1 designer, 1 developer, 1 content expert, and 1 business hacker/doer.
+- Built a business model from scratch modeled on `cost per acquisitions` and `profit margins`
+- Developed extensive planning material around `marketing`, `go-to-market strategy`, and `operational finances`
 
 **[HaveMyShift.com](http://www.havemyshift.com)** - Co-Founder
 
@@ -28,17 +32,18 @@ content creation and coordination of a team of 5 – 1 designer, 1 developer, 1 
 
 ##Consulting
 
-**Independent Consulting**
-
-- Led `technology and operations assessment` for an Ecuadorian microfinance bank. Assessment included defining a technology strategy and recommendations for operational improvements and go-to-market strategy for microloan products in central Ecuador
-- Project managed an ERP system implementation for a mid-sized construction company
-
-
 **Diamond Consulting (Acquired by PwC)**
 
-- Founded and directed an `internal technology incubation lab`. Primary role was `lead product manager`. My team launched cutting edge social web applications from the idea stage using `Ruby on Rails, Heroku, and MongoDB.`. Outputs included social media dashboard, visual search travel app, and a demographic BI tool.
-- Client work included Fortune 100 clients in the Energy, Healthcare, and Insurance sectors, worked on a wide array of projects including organizational redesign, IT Portfolio assessments, and IT Strategy work
+- Founded and directed an `internal technology incubation lab`. Primary role was `lead product manager`. My team launched cutting edge social web applications from the idea stage using `Ruby on Rails, Heroku, and MongoDB.`. Outputs included visual search travel app for iPad, shopping cart for a healthcare reagent manufacturer, and a demographic BI tool.
+- Client work included Fortune 100 clients in the Energy, Healthcare, and Insurance sectors, worked on a wide array of projects including organizational redesign, IT Portfolio assessments, supply chain, finance operations, and IT Strategy work
 
+##Technology
+
+- **Mobile** - Design and built responsive mobile sites using Twitter Boostrap framework. Recreational knowledge of native development concepts and tools
+- **UX** - Mockups and information architecture with `Moqups` and `Axure`
+- **Ruby on Rails** - Built, maintained and launched 5 separate full-stack projects of varying size and complexity
+- **PHP Codeigniter** - Supported development and architecture, front-end support, high complexity environment
+- **AngularJS** - Supported development and architecture, front-end support, high complexity environment
 
 ##Education
 
