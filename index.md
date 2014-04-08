@@ -18,10 +18,11 @@ tagline: "and education"
 
 **[Wavetable Labs](http://wavetable.com/)** - Founder in Residence
 
-- Led the ideation and execution of a travel content app for iOS
-- As CEO of the app, activities included initial research, strategy, design, budgeting, marketing, SEM,
-content creation and coordination of a team of 5 – 1 designer, 1 developer, 1 content expert, and 1 business hacker/doer.
-- Built a business model from scratch modeled on `cost per acquisitions` and `profit margins`
+- Led the ideation and execution of a mobile audio tour app - **[Guide.Me](http://guidemeapp.co/)**
+- As CEO of the app, activities included `product roadmap`, strategy, design, budgeting, marketing, SEM, content creation and investor pitches.
+- Led of a team of 4 – 1 designer, 1 developer, 1 content expert, and 1 business hacker/doer.
+- Prototyped and tested the concept with varying degrees of fidelity
+- A/B tested business models and performed detailed `funnel and conversion analysis` then built a business model from scratch modeled on `cost per acquisitions` and `profit margins`
 - Developed extensive planning material around `marketing`, `go-to-market strategy`, and `operational finances`
 
 **[HaveMyShift.com](http://www.havemyshift.com)** - Co-Founder
