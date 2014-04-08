@@ -45,7 +45,7 @@ content creation and coordination of a team of 5 – 1 designer, 1 developer, 1 
 
 - **Mobile** - Design and built responsive mobile sites using Twitter Boostrap framework. Recreational knowledge of native development concepts and tools
 - **UX** - Mockups and information architecture with `Moqups` and `Axure`
-- **Ruby on Rails** - Built, maintained and launched 5 separate full-stack projects of varying size and complexity. Technologies leveraged include Heroku, Redis, MongoDB, Javascript, coffeescript, HTML5, CSS3, Puppet, and REST API services
+- **Ruby on Rails** - Built, maintained and launched 5 separate full-stack projects of varying size and complexity. Technologies leveraged include Heroku, Redis, MongoDB, Javascript, Coffeescript, HTML5, CSS3, Puppet, and REST API services
 - **PHP Codeigniter** - Supported development and architecture, front-end support, high complexity environment
 - **AngularJS** - Supported development and architecture, front-end support, high complexity environment
 
@@ -63,4 +63,4 @@ content creation and coordination of a team of 5 – 1 designer, 1 developer, 1 
 
 ##Interests
 
-- Enjoys cooking, kiteboarding, scuba diving, mountain biking, home brewing, and hacking with AngularJS, Ruby on Rails, Rubymotion, public API’s and new web technologies
+- Enjoys cooking, kiteboarding, scuba diving, mountain biking, home brewing, and hacking with Ruby on Rails, Rubymotion, public API’s and new web technologies
