@@ -26,22 +26,26 @@ content creation and coordination of a team of 5 – 1 designer, 1 developer, 1 
 
 **[HaveMyShift.com](http://www.havemyshift.com)** - Co-Founder
 
-- Led `business development, sales` `and strategic partnerships` with clients like Starbucks, Lettuce Entertain You Restaurants, Argo Tea, and Accenture
+- Led `business development, sales` `and strategic partnerships` with clients like Starbucks, Best Buy, Accenture Technology Labs, Lettuce Entertain You Restaurants and Argo Tea
+- `Bootstrapped` business from MVP to 15,000+ users across the US.
+- Drove core product strategy and UX, working directly with CTO to launch major features and `rapidly iterate` based on direct feedback from users
+- Developed go-to-market strategy for multi-city growth and developed partnerships with regional
+- Led Social and SEO growth campaigns
 - Named one of WSJ’s Hottest Chicago Startups, also featured in the book ‘Coolest Startups in America’
 
 
 ##Consulting
 
-**Diamond Consulting (Acquired by PwC)**
+**Diamond Consulting (Acquired by PwC)** - PWC Technology Labs - Co-Founder and Product Director
 
-- Founded and directed an `internal technology incubation lab`. Primary role was `lead product manager`. My team launched cutting edge social web applications from the idea stage using `Ruby on Rails, Heroku, and MongoDB.`. Outputs included visual search travel app for iPad, shopping cart for a healthcare reagent manufacturer, and a demographic BI tool.
+- Founded and directed an `internal technology incubation lab`. Primary role was `lead product manager`. My team launched cutting edge web applications from the idea stage through UX and visual design. Outputs included visual search travel app for iPad, shopping cart for a healthcare reagent manufacturer, and a demographic BI tool.
 - Client work included Fortune 100 clients in the Energy, Healthcare, and Insurance sectors, worked on a wide array of projects including organizational redesign, IT Portfolio assessments, supply chain, finance operations, and IT Strategy work
 
 ##Technology
 
 - **Mobile** - Design and built responsive mobile sites using Twitter Boostrap framework. Recreational knowledge of native development concepts and tools
 - **UX** - Mockups and information architecture with `Moqups` and `Axure`
-- **Ruby on Rails** - Built, maintained and launched 5 separate full-stack projects of varying size and complexity
+- **Ruby on Rails** - Built, maintained and launched 5 separate full-stack projects of varying size and complexity. Technologies leveraged include Heroku, Redis, MongoDB, Javascript, coffeescript, HTML5, CSS3, Puppet, and REST API services
 - **PHP Codeigniter** - Supported development and architecture, front-end support, high complexity environment
 - **AngularJS** - Supported development and architecture, front-end support, high complexity environment
 
