@@ -8,7 +8,7 @@ tagline: "and education"
 
 ##Startup
 
-**[ForSaleByOwner.com](http://www.forsalebyowner.com)** - Product Consultant
+**[ForSaleByOwner.com](https://speakerdeck.com/dgilliam/wavetable-work-products?slide=1)** - Product Consultant
 
 - Led `product roadmap and development` for 2MM+ monthly visitor and $12MM annual revenue site with a team of `5 developers`, one `UX designer` and one `visual designer`
 - Coordinated with executive stakeholders, content, marketing, and operations teams to `prioritize feature requests` and translate them into `stories` for design and engineering
@@ -16,7 +16,7 @@ tagline: "and education"
 - Supported design and development with `UX flows and mockups`
 - Developed deep experience in the `real estate` industry and built a team and instilled startup culture and values
 
-**[Wavetable Labs](http://wavetable.com/)** - Founder in Residence
+**[Wavetable Labs](https://speakerdeck.com/dgilliam/wavetable-work-products?slide=6)** - Founder in Residence
 
 - Led the ideation and execution of a mobile audio tour app - **[Guide.Me](http://guidemeapp.co/)**
 - As CEO of the app, activities included `product roadmap`, strategy, design, budgeting, marketing, SEM, content creation and investor pitches.
