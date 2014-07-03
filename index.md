@@ -14,7 +14,7 @@ tagline: "and education"
 - Managed `agile development` for 10+ native iOS mobile apps built with `objective-C, CoronaSDK, and PhoneGap` and games
 - Co-architected application backends build in Python to support server-side interactivity of mobile apps
 
-**[ForSaleByOwner.com](https://speakerdeck.com/dgilliam/wavetable-work-products?slide=1)** - Technical Product Consultant
+**[ForSaleByOwner.com](https://speakerdeck.com/dgilliam/wavetable-work-products?slide=1)** - Product Consultant
 
 - Led `product roadmap and development` for 2MM+ monthly visitor and $12MM annual revenue site with a team of `5 developers`, one `UX designer` and one `visual designer`
 - Coordinated with executive stakeholders, content, marketing, and operations teams to `prioritize feature requests` and translate them into `stories` for design and engineering
