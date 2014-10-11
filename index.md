@@ -6,7 +6,9 @@ tagline: "and education"
 ---
 {% include JB/setup %}
 
-##Startup
+##Startup / Freelance
+
+**AbbVie, Kohler, MMC Marsh - Freelance Product Consultant
 
 **[Mobilexlabs.com](http://mobilexlabs.com)** - Technical Product Consultant
 
@@ -43,6 +45,11 @@ tagline: "and education"
 
 ##Management Consulting
 
+**[AbbVie Pharmaceuticals](www.abbvie.com/)** - Freelance Mobile Product Consultant
+
+- Developed an org and process strategy for developing and shipping mobile apps classified by the FDA as medical devices
+- Led team of 3 consultants to interview 20+ leaders in the organization and create a roadmap for improving the process and technical competency of the development teams
+
 **Diamond Consulting (Acquired by PwC)** - PWC Technology Labs - Co-Founder and Product Director
 
 - Founded and directed an `internal technology incubation lab`. Primary role was `lead product manager`. My team launched cutting edge web applications from the idea stage through UX and visual design. Outputs included visual search travel app for iPad, shopping cart for a healthcare reagent manufacturer, and a demographic BI tool.
@@ -50,8 +57,8 @@ tagline: "and education"
 
 ##Technology
 
-- **Mobile** - Design and built responsive mobile sites using Twitter Boostrap framework. Recreational knowledge of native development concepts and tools
-- **UX** - Mockups and information architecture with `Moqups` and `Axure`
+- **Mobile** - Managed Design and Development of 5 native iOS apps (`Objective-C`) and games (`Corona SDK`) with `Python` API backends. Design and built responsive mobile sites using Twitter Boostrap framework.
+- **UX** - Mockups and information architecture with `Sketch`, `Moqups` and `Axure`
 - **Ruby on Rails** - Built, maintained and launched 5 separate full-stack projects of varying size and complexity. Technologies leveraged include Heroku, Redis, MongoDB, Javascript, Coffeescript, HTML5, CSS3, Puppet, and REST API services
 - **PHP Codeigniter** - Supported development and architecture, front-end support, high complexity environment
 - **AngularJS** - Supported development and architecture, front-end support, high complexity environment
