@@ -12,8 +12,8 @@ tagline: "and education"
 
 **[Mobilexlabs.com](http://mobilexlabs.com)** - Technical Product Consultant
 
-- Led Product Management for Apps and Games Divisions of MobileX with 8 developers and 5 artists.
-- Managed `agile development` for 10+ native iOS mobile apps built with `objective-C, CoronaSDK, and PhoneGap` and games
+- Led Product Management for Apps and Games Divisions of MobileX with 8 developers and 5 artists
+- Managed `agile development` for 10+ native iOS mobile apps and games built with `objective-C, CoronaSDK, and PhoneGap`
 - Co-architected application backends build in Python to support server-side interactivity of mobile apps
 
 **[ForSaleByOwner.com](https://speakerdeck.com/dgilliam/wavetable-work-products?slide=1)** - Product Consultant
