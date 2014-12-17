@@ -8,7 +8,7 @@ tagline: "and education"
 
 ##Startup / Freelance
 
-**AbbVie, Kohler, MMC Marsh** - Freelance Product Consultant
+**AbbVie, Kohler, MMC Marsh** - Freelance Product and UX Consultant
 
 **[Mobilexlabs.com](http://mobilexlabs.com)** - Technical Product Consultant
 
