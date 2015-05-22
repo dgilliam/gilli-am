@@ -7,6 +7,12 @@ tagline: "and education"
 {% include JB/setup %}
 
 ##Startup / Freelance
+**[Pangea](http://gopangea.com)** - Vice President of Product
+
+- Spearheaded `global expansion` for a heavily funded fintech startup `from 1 to 55 countries` though a network of banking partners
+- Managed a team of 3 designers and 7 developers working on 3 platforms, `Android, iOS and responsive web`.
+- Led product improvement initiatives and `product roadmap and ideation` in conjunction with marketing and compliance teams
+- Learned a lot, had an absolute blast, worked like a dog
 
 **AbbVie, Kohler, MMC Marsh** - Freelance Product and UX Consultant
 
@@ -16,7 +22,7 @@ tagline: "and education"
 - Managed `agile development` for 10+ native iOS mobile apps and games built with `objective-C, CoronaSDK, and PhoneGap`
 - Co-architected application backends build in Python to support server-side interactivity of mobile apps
 
-**[ForSaleByOwner.com](https://speakerdeck.com/dgilliam/wavetable-work-products?slide=1)** - Product Consultant
+**ForSaleByOwner.com** - Product Consultant
 
 - Led `product roadmap and development` for 2MM+ monthly visitor and $12MM annual revenue site with a team of `5 developers`, one `UX designer` and one `visual designer`
 - Coordinated with executive stakeholders, content, marketing, and operations teams to `prioritize feature requests` and translate them into `stories` for design and engineering
@@ -24,16 +30,16 @@ tagline: "and education"
 - Supported design and development with `UX flows and mockups`
 - Developed deep experience in the `real estate` industry and built a team and instilled startup culture and values
 
-**[Wavetable Labs](https://speakerdeck.com/dgilliam/wavetable-work-products?slide=6)** - Founder in Residence
+**Wavetable Labs** - Founder in Residence
 
-- Led the ideation and execution of a mobile audio tour app - **[Guide.Me](http://guidemeapp.co/)**
+- Led the ideation and execution of a mobile audio tour app - **Guide.Me**
 - As CEO of the app, activities included `product roadmap`, strategy, design, budgeting, marketing, SEM, content creation and investor pitches.
 - Led of a team of 4 – 1 designer, 1 developer, 1 content expert, and 1 business hacker/doer.
 - Prototyped and tested the concept with varying degrees of fidelity
 - A/B tested business models and performed detailed `funnel and conversion analysis` then built a business model from scratch modeled on `cost per acquisitions` and `profit margins`
 - Developed extensive planning material around `marketing`, `go-to-market strategy`, and `operational finances`
 
-**[HaveMyShift.com](http://www.havemyshift.com)** - Co-Founder
+**HaveMyShift.com** - Co-Founder
 
 - Led `business development, sales` `and strategic partnerships` with clients like Starbucks, Best Buy, Accenture Technology Labs, Lettuce Entertain You Restaurants and Argo Tea
 - `Bootstrapped` business from MVP to 15,000+ users across the US.
